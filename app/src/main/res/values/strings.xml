@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Train JSONWeatherApp</string>
+    <string name="countryText">Country:</string>
+    <string name="humidityText">Humidity:</string>
+    <string name="locationText">Location:</string>
+    <string name="pressureText">Pressure:</string>
+    <string name="temperatureText">Temperature:</string>
+    <string name="weatherButton">Weather go!:</string>
+</resources>
